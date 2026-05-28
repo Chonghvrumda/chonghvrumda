@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm [Peace Joshua] 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -9,30 +9,30 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:peace.joshua.pj@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 👤 About Me 
+I’m a data analyst with a Physics background: wired to ask why and dig until the numbers make sense. That foundation has shaped how I approach every dataset: methodically, curiously, and with an eye for what actually matters.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I specialise in operations, business, and customer analytics where insights don’t just look good on a dashboard, they drive real decisions. I’m comfortable working with messy, real-world data and translating it into something stakeholders can act on.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 💼 What I Do
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+**✅ Data Cleaning & Preparation:**
+I transform raw, messy data into clean, structured datasets ready for analysis.
 
-## 🌱 Currently Learning 
+**✅ Dashboard & Reporting:**
+I build clear, interactive dashboards and reports.
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+**✅ Customer & Business Analytics:**
+I dig into operations, CRM, and business performance data to uncover patterns and opportunities.
+
+**✅ Market Analysis & Research:**
+I analyse trends, customer behaviour, and market dynamics to help businesses stay informed and ahead of the curve.
 
 ## 🛠️ Technical Skillset
 
