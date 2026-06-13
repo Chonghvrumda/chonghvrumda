@@ -13,45 +13,38 @@
 </p>
 
 ## 👤 About Me 
-I’m a data analyst with a Physics background: wired to ask why and dig until the numbers make sense. That foundation has shaped how I approach every dataset: methodically, curiously, and with an eye for what actually matters.
+Five years inside fintech, crypto, and SaaS businesses taught me where data actually matters — and where it gets ignored. I moved into analytics to fix the second part.
 
-I specialise in operations, business, and customer analytics where insights don’t just look good on a dashboard, they drive real decisions. I’m comfortable working with messy, real-world data and translating it into something stakeholders can act on.
+I work across Excel, SQL, Power BI, and Looker Studio, focused on operational and business analytics. Currently building my data engineering foundation with ALX.
       
-## 💼 What I Do
+## 💼 Areas of Focus
 
-**✅ Data Cleaning & Preparation:**
-I transform raw, messy data into clean, structured datasets ready for analysis.
+**🔹 Operational Analytics**
+Analysing processes and workflows to identify inefficiencies, bottlenecks, and opportunities for improvement.
 
-**✅ Dashboard & Reporting:**
-I build clear, interactive dashboards and reports.
+**🔹 Customer & CRM Analytics**
+Digging into retention, churn, lifecycle, and pipeline data to understand customer behaviour and protect revenue.
 
-**✅ Customer & Business Analytics:**
-I dig into operations, CRM, and business performance data to uncover patterns and opportunities.
+**🔹 Product Analytics**
+Understanding how users interact with a product — where they drop off, what drives engagement, and what the data says about what to build next.
 
-**✅ Market Analysis & Research:**
+**🔹 Market Analysis & Research**
 I analyse trends, customer behaviour, and market dynamics to help businesses stay informed and ahead of the curve.
+
 
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/looker-Intermediate-orange?logo=looker" alt="Looker Skill Badge">
-
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Google%20Workspace-Proficient-4285F4?style=flat&logo=google&logoColor=white" alt="Google Workspace">
 </p>
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://chonghvrumda.github.io/)
