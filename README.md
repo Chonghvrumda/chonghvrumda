@@ -13,9 +13,13 @@
 </p>
 
 ## 👤 About Me 
-Five years inside fintech, crypto, and SaaS businesses taught me where data actually matters — and where it gets ignored. I moved into analytics to fix the second part.
+Five years working across customer support and operations showed me how closely business performance is tied to data and decision-making.
 
-I work across Excel, SQL, Power BI, and Looker Studio, focused on operational and business analytics. Currently building my data engineering foundation with ALX.
+That experience led me into analytics.
+
+Today, I focus on operational and business analytics—understanding processes, customer journeys, and performance patterns to uncover what’s really driving outcomes. 
+
+Currently building my data engineering foundation through ALX.
       
 ## 💼 Areas of Focus
 
